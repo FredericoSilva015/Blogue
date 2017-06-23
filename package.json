@@ -1,0 +1,35 @@
+{
+  "name": "blogue",
+  "version": "1.0.0",
+  "description": "blogue iteration through API",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FredericoSilva015/Blogue.git"
+  },
+  "keywords": [
+    "blogue"
+  ],
+  "author": "Fred",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FredericoSilva015/Blogue/issues"
+  },
+  "homepage": "https://github.com/FredericoSilva015/Blogue#readme",
+  "devDependencies": {
+    "del": "^3.0.0",
+    "gulp": "^3.9.1",
+    "gulp-clean-css": "^3.4.2",
+    "gulp-concat": "^2.6.1",
+    "gulp-jshint": "^2.0.4",
+    "gulp-rev-append": "^0.1.8",
+    "gulp-sass": "^3.1.0",
+    "gulp-sourcemaps": "^2.6.0",
+    "gulp-uglify": "^3.0.0",
+    "jshint": "^2.9.4",
+    "merge2": "^1.0.3"
+  }
+}

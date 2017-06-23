@@ -1,0 +1,1 @@
+{"version":3,"sources":["blogue.scss"],"names":[],"mappings":"AAAA,QACE,QAAS,KACT,WAAY,MAKd,UACE,MAAO,IAET,OACE,MAAO","file":"../all.min.css","sourcesContent":["section {\r\n  display: flex;\r\n  min-height: 500px;\r\n  div  {\r\n\r\n  }\r\n}\r\n#fullList {\r\n  width: 30%;\r\n}\r\n#focus{\r\n  width: 70%;\r\n}\r\n"]}
